@@ -1,4 +1,4 @@
-function tugas(params) {
+function tugas() {
     
     var siswa = {
         topik        : "Matematika-1",
